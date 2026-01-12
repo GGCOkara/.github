@@ -3,7 +3,7 @@
 *Dedicated to Knowledge — Serving the Community Since 1958*
 
 <p align="center">
-  <img src="./images/logo.png" alt="Govt Graduate College Okara Logo" width="200" />
+  <img src="./images/logo-ur.jpg" alt="Govt Graduate College Okara Logo" width="200" />
 </p>
 
 ---
@@ -39,22 +39,24 @@ To foster lifelong learning, community development, and leadership qualities in 
 ## 🏫 Campus Highlights
 
 <p align="center">
-  <img src="images/campus1.jpg" alt="College Campus" width="400" />
-  <img src="images/campus2.jpg" alt="Campus Grounds" width="400" />
+  <img src="images/building.jpg" alt="College Campus"  />
 </p>
+<p align="center">
+<img src="images/staff.jpg" alt="Campus Grounds"  />
+</p>
+
 
 * Spacious campus with open green areas
 * Modern classrooms and study spaces
 * Sports & activities zones
 * Friendly and supportive learning environment
 
-> (Replace these pictures with real campus photos in your repo under `/images`)
-
 ---
 
 ## 📅 College Schedule
 
 Here’s a sample weekly schedule (update as per official timetable):
+<div align="center">
 
 | **Day**   | **Opening Time** | **Closing Time** |
 | --------- | ---------------- | ---------------- |
@@ -64,6 +66,9 @@ Here’s a sample weekly schedule (update as per official timetable):
 | Thursday  | 09:00 AM         | 02:00 PM         |
 | Friday    | 09:00 AM         | 01:30 PM         |
 | Saturday  | 09:00 AM         | 02:00 PM         |
+
+
+</div>
 
 > *Timings might vary with official announcements — please verify with college notices.* ([School and College Listings][1])
 
@@ -83,10 +88,6 @@ Government Graduate College Okara offers a variety of programs including:
 
 ## 🏆 Student & Alumni Life
 
-<p align="center">
-  <img src="images/alumni1.jpg" alt="College Alumni Meetup" width="400" />
-  <img src="images/event1.jpg" alt="College Events" width="400" />
-</p>
 
 The college community has an active student life, including:
 
@@ -101,7 +102,6 @@ The college community has an active student life, including:
 > **Address:**
 > *Govt Graduate College Okara, Okara 56300, Punjab, Pakistan* ([School and College Listings][1])
 
-You can embed a **GitHub Pages map section** or Google Maps iframe on your site later.
 
 ---
 
@@ -122,9 +122,3 @@ Feel free to **open a GitHub Issue or pull request** to add:
 
 This website content is shared under the **MIT License**.
 Built with ❤️ for Govt. Graduate College Okara. and every College come to improve our Project
-
-
-If you want, I can also generate **HTML/CSS template code** you can put live on GitHub Pages!
-
-[1]: https://www.schoolandcollegelistings.com/PK/Okara/169882370490321/Govt.-Graduate-College-Okara?utm_source=chatgpt.com "Govt. Graduate College Okara, Okara (2025)"
-[2]: https://www.dawn.com/news/1712592?utm_source=chatgpt.com "New title for Okara college alumni - Newspaper - DAWN.COM"
