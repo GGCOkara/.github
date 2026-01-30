@@ -3,7 +3,7 @@
 *Dedicated to Knowledge — Serving the Community Since 1958*
 
 <p align="center">
-  <img src="./images/logo-ur.jpg" alt="Govt Graduate College Okara Logo" width="200" />
+  <img src="./images/logo-ur.jpg" alt="Govt Graduate College Okara Logo" width="210" />
 </p>
 
 ---
